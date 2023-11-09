@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 void foo();
+printf("this is the end\n");
 
 #endif
 
