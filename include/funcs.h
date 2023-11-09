@@ -2,7 +2,7 @@
 #define __FUNCS_H__
 #include <stdio.h>
 
-void foo();
+void foo(int a);
 printf("this is the end\n");
 
 #endif
