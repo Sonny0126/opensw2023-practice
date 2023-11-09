@@ -4,6 +4,7 @@
 
 void foo(int a);
 printf("this is the end\n");
+printf("this is the exp");
 
 #endif
 
